@@ -19,15 +19,18 @@ Follow these steps to integrate the payment gateway into your GitHub project:
 Clone the Repository:
 
 bash
-Copy code
-git clone https://github.com/yourusername/Payment_Integration-App.git
-Configure API Keys:
+Copy code and clone it
+
+Configure API Keys
+
 Obtain API keys from the payment gateway provider and configure them in the appropriate files.
 
 Customize UI:
+
 Customize the payment interface according to your project's design guidelines. Modify HTML, CSS, and JavaScript files as needed.
 
 Integrate API Endpoints:
+
 Connect your application to the payment gateway's API endpoints to enable payment processing.
 
 Test Transactions:
